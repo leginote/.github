@@ -1,1 +1,1 @@
-# leginote
+# .github
